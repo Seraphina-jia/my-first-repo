@@ -7,7 +7,7 @@ int main()
 }
 int print()
 {
-	printf("woyaoneichangqianpai!\n");
+	printf("1\n");
 }
 
 
